@@ -1,4 +1,4 @@
-# Aws-project
+# Aws Load Balancer with Auto Scaling Project
  Project 1: Manage and Maintain Web Server Load Using Load Balancer with Auto Scaling (AWS)
 
  Description
